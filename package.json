@@ -1,7 +1,7 @@
 {
   "name": "epapi",
   "version": "1.0.0",
-  "description": "A RESTful API for the 2nd Edition Epclipse Phase Role Playing System",
+  "description": "A RESTful API for the 2nd Edition Eclipse Phase Role Playing System",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
