@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/AustinYQM/epapi/issues"
   },
-  "homepage": "https://github.com/AustinYQM/epapi#readme"
+  "homepage": "https://github.com/AustinYQM/epapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
